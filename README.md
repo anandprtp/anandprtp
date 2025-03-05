@@ -36,9 +36,6 @@
 - Achieved 25% Improvement in Seller Satisfaction Scores
 - Reduced Issue Resolution Time by 15%
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandprtp&show_icons=true&theme=radical)
-
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandprtp/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pratapanand67@gmail.com)
