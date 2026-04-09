@@ -36,9 +36,6 @@
 - Achieved 25% Improvement in Seller Satisfaction Scores
 - Reduced Issue Resolution Time by 15%
 
-### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandprtp/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pratapanand67@gmail.com)
 
 ### 💡 Interesting Fact
 When I'm not transforming data, I'm exploring the intersection of technology and business strategy!
