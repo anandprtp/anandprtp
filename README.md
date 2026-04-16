@@ -1,11 +1,3 @@
-# 👋 Hello, I'm Anand Pratap Singh
-
-## 🚀 Professional Data & Business Intelligence Specialist
-
-### 💼 Professional Background
-- 5+ Years of Experience at Amazon in Selling Partner Operations
-- Expert in Data Analysis, Business Intelligence, and Operational Optimization
-
 ### 🛠️ Technical Expertise
 
 **Languages:**
@@ -24,23 +16,3 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### 🌱 Current Focus
-- Deep diving into Advanced Data Analysis
-- Exploring Machine Learning Techniques
-- Continuous Learning in Cloud Technologies
-
-### 🔍 Professional Highlights
-- Transformed Amazon Seller Operations through Data-Driven Insights
-- Led Team of 10 Associates in Performance Optimization Project
-- Achieved 25% Improvement in Seller Satisfaction Scores
-- Reduced Issue Resolution Time by 15%
-
-
-### 💡 Interesting Fact
-When I'm not transforming data, I'm exploring the intersection of technology and business strategy!
-
----
-
-#### 🏆 Professional Motto
-*"Data tells a story. My job is to help you understand it."*
