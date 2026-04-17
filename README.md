@@ -1,36 +1,59 @@
-# 👋 Hi, I'm Hoshiyaar Singh 
+<div align="center">
 
-### 🚀 Creator & Lead Developer of [Antra](https://github.com/anandprtp/Antra)  
-Building high-performance utilities, exploring the intersection of modern frontend tools with system-level backends, and scaling up robust systems. Currently focused on crafting seamless, cross-platform app experiences. 👇
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hey+There!+I'm+Hoshiyaar+Singh;Builder+of+Antra;Go+%2F+Python+%2F+Svelte+Dev;I+ship+things+that+work.)](https://github.com/anandprtp)
 
----
-
-### 🧰 Arsenal & Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Libraries**  
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Wails](https://img.shields.io/badge/Wails-ED2224?style=for-the-badge&logo=wails&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-### 📊 Github Stats
+I build desktop software that solves real problems — the kind that doesn't compromise on quality.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandprtp&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Hoshiyaar's Github Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandprtp&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Hoshiyaar's Top Languages"/>
-</p>
+Currently focused on **[Antra](https://github.com/anandprtp/Antra)** — a desktop music library downloader that resolves Spotify, Apple Music & Amazon Music URLs and pulls lossless audio from a prioritized chain of sources. GUI in Wails (Go + Svelte), download engine in Python, bridged by a custom newline-delimited JSON protocol.
+
+---
+
+### Arsenal & Tech Stack
+
+[![](https://skillicons.dev/icons?i=go,python,svelte,typescript,vite,git,github,linux&theme=dark&perline=8)](https://github.com/anandprtp)
+
+| Layer | Tech |
+|---|---|
+| Desktop Shell | Go · Wails v2 |
+| Frontend UI | Svelte · TypeScript · Vite |
+| Download Engine | Python 3.11 |
+| Packaging & CI/CD | PyInstaller · GitHub Actions · AppImage · create-dmg |
+| Audio | mutagen · ffmpeg · imageio-ffmpeg |
+| Metadata | spotipy · TOTP auth · Spotify partner GraphQL API |
+| Sources | yt-dlp · Odesli · Soulseek (slskd) · Amazon · Qobuz |
+| Lyrics | lyricsgenius · Musixmatch |
+
+---
+
+### Featured Project
+
+[![Antra](https://github-readme-stats.vercel.app/api/pin/?username=anandprtp&repo=Antra&theme=tokyonight&border_color=38BDF8)](https://github.com/anandprtp/Antra)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandprtp&show_icons=true&theme=tokyonight&border_color=38BDF8&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anandprtp&theme=tokyonight&border=38BDF8)
+
+</div>
+
+---
+
+![github contribution grid snake animation](https://github.com/anandprtp/anandprtp/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+[![Browse Repos](https://img.shields.io/badge/Browse%20My-Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=black)](https://github.com/anandprtp?tab=repositories)
+[![Email Me](https://img.shields.io/badge/Email-Me-gray?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+
+</div>
