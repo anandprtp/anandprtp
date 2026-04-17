@@ -1,59 +1,136 @@
-<div align="center">
+<!-- HEADER — animated audio waveform SVG (commit this file to your repo root) -->
+<p align="center">
+  <img src="header.svg" alt="Hoshiyaar Singh" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hey+There!+I'm+Hoshiyaar+Singh;Builder+of+Antra;Go+%2F+Python+%2F+Svelte+Dev;I+ship+things+that+work.)](https://github.com/anandprtp)
+<br/>
 
-</div>
+<!-- INTRO -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> &nbsp;
+  Hoshiyaar Singh
+</h1>
+
+<p align="center">
+  <em>I build software that respects your ears — and your intelligence.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anandprtp/Antra">
+    <img src="https://img.shields.io/badge/▶_Currently_Shipping-Antra_v1.1.3-0ea5e9?style=flat-square&labelColor=0d1117"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Go_%2B_Python_%2B_Svelte-stack-38BDF8?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=anandprtp&color=38BDF8&style=flat-square&label=profile+views"/>
+</p>
 
 ---
 
-I build desktop software that solves real problems — the kind that doesn't compromise on quality.
+## `$ whoami`
 
-Currently focused on **[Antra](https://github.com/anandprtp/Antra)** — a desktop music library downloader that resolves Spotify, Apple Music & Amazon Music URLs and pulls lossless audio from a prioritized chain of sources. GUI in Wails (Go + Svelte), download engine in Python, bridged by a custom newline-delimited JSON protocol.
+```
+Hoshiyaar Singh — builder of desktop tools that do one thing, perfectly.
+
+Current obsession → Antra, a music library downloader that speaks
+  Spotify, Apple Music & Amazon Music fluently, pulls lossless audio
+  from a prioritized chain of sources, and ships as a single binary
+  on Windows, macOS, and Linux.
+
+Architecture: Go (Wails) shell ↔ newline-delimited JSON ↔ Python engine
+The bridge was the hard part. Everything else was just engineering.
+```
 
 ---
 
-### Arsenal & Tech Stack
+## 🎧 &nbsp; Featured: [Antra](https://github.com/anandprtp/Antra)
 
-[![](https://skillicons.dev/icons?i=go,python,svelte,typescript,vite,git,github,linux&theme=dark&perline=8)](https://github.com/anandprtp)
+> *A desktop music library downloader. Resolves Spotify / Apple Music / Amazon Music URLs → downloads lossless audio → auto-tags, transcodes, and organizes. No subscriptions. No compromises.*
 
-| Layer | Tech |
+<p align="left">
+  <img src="https://img.shields.io/github/v/release/anandprtp/Antra?color=38BDF8&label=latest&style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/github/stars/anandprtp/Antra?color=38BDF8&style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/platforms-Windows%20·%20macOS%20·%20Linux-38BDF8?style=flat-square&labelColor=0d1117"/>
+</p>
+
+```
+Sources tried in order:  Amazon Music → HiFi → DAB → Soulseek
+Metadata from:           Spotify (TOTP token + partner GraphQL API) · Apple Music · Amazon
+Audio pipeline:          yt-dlp → mutagen tags → ffmpeg transcode → organized library
+```
+
+---
+
+## ⚙️ &nbsp;Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="Svelte"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+</p>
+
+| Layer | What I reach for |
 |---|---|
-| Desktop Shell | Go · Wails v2 |
-| Frontend UI | Svelte · TypeScript · Vite |
-| Download Engine | Python 3.11 |
-| Packaging & CI/CD | PyInstaller · GitHub Actions · AppImage · create-dmg |
-| Audio | mutagen · ffmpeg · imageio-ffmpeg |
-| Metadata | spotipy · TOTP auth · Spotify partner GraphQL API |
-| Sources | yt-dlp · Odesli · Soulseek (slskd) · Amazon · Qobuz |
-| Lyrics | lyricsgenius · Musixmatch |
+| **Desktop shell** | Go · Wails v2 |
+| **UI** | Svelte · TypeScript · Vite |
+| **Engine** | Python 3.11 |
+| **Audio pipeline** | ffmpeg · mutagen · imageio-ffmpeg |
+| **Metadata** | spotipy · TOTP auth · Spotify partner GraphQL API · Apple Music |
+| **Sources** | yt-dlp · Odesli · Soulseek (slskd) · Amazon · Qobuz · DAB |
+| **Lyrics** | lyricsgenius · Musixmatch |
+| **Packaging** | PyInstaller · GitHub Actions · AppImage · create-dmg |
 
 ---
 
-### Featured Project
+## 📊 &nbsp;Stats
 
-[![Antra](https://github-readme-stats.vercel.app/api/pin/?username=anandprtp&repo=Antra&theme=tokyonight&border_color=38BDF8)](https://github.com/anandprtp/Antra)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anandprtp&show_icons=true&theme=tokyonight&border_color=1e3a5f&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&hide_border=false&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandprtp&layout=compact&theme=tokyonight&border_color=1e3a5f&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&hide_border=false"/>
+</p>
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandprtp&show_icons=true&theme=tokyonight&border_color=38BDF8&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anandprtp&theme=tokyonight&border=38BDF8)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anandprtp&theme=tokyonight&background=0d1117&border=1e3a5f&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8"/>
+</p>
 
 ---
 
-![github contribution grid snake animation](https://github.com/anandprtp/anandprtp/raw/output/github-contribution-grid-snake.svg)
+## 🏆 &nbsp;Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anandprtp&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true"/>
+</p>
 
 ---
 
-<div align="center">
+## 📈 &nbsp;Activity
 
-[![Browse Repos](https://img.shields.io/badge/Browse%20My-Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=black)](https://github.com/anandprtp?tab=repositories)
-[![Email Me](https://img.shields.io/badge/Email-Me-gray?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandprtp&bg_color=0d1117&color=38BDF8&line=1e3a5f&point=38BDF8&area=true&area_color=1e3a5f&hide_border=true"/>
+</p>
 
-</div>
+---
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38BDF8&height=80&section=footer"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anandprtp?tab=repositories">
+    <img src="https://img.shields.io/badge/All_Repos-→-38BDF8?style=for-the-badge&labelColor=0d1117"/>
+  </a>
+</p>
