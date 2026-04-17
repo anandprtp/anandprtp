@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  <em>I build software that respects your ears — and your intelligence.</em>
+  <em>I build software that respects your ears - and your intelligence.</em>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ## `$ whoami`
 
 ```
-Hoshiyaar Singh — builder of desktop tools that do one thing, perfectly.
+Hoshiyaar Singh - builder of desktop tools that do one thing, perfectly.
 
 Current obsession → Antra, a music library downloader that speaks
   Spotify, Apple Music & Amazon Music fluently, pulls lossless audio
@@ -45,7 +45,7 @@ The bridge was the hard part. Everything else was just engineering.
 
 ## 🎧 &nbsp; Featured: [Antra](https://github.com/anandprtp/Antra)
 
-> *A desktop music library downloader. Resolves Spotify / Apple Music / Amazon Music URLs → downloads lossless audio → auto-tags, transcodes, and organizes. No subscriptions. No compromises.*
+> *A desktop music library downloader. Resolves Spotify / Apple Music / Amazon Music URLs → get lossless audio → auto-tags, transcodes, and organizes. No subscriptions. No compromises.*
 
 <p align="left">
   <img src="https://img.shields.io/github/v/release/anandprtp/Antra?color=38BDF8&label=latest&style=flat-square&labelColor=0d1117"/>
@@ -54,7 +54,7 @@ The bridge was the hard part. Everything else was just engineering.
 </p>
 
 ```
-Sources tried in order:  Amazon Music → HiFi → DAB → Soulseek
+Sources tried in order:  Amazon Music → Tidal → Qobuz → Soulseek
 Metadata from:           Spotify (TOTP token + partner GraphQL API) · Apple Music · Amazon
 Audio pipeline:          yt-dlp → mutagen tags → ffmpeg transcode → organized library
 ```
