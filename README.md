@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/anandprtp/Antra">
-    <img src="https://img.shields.io/badge/▶_Currently_Shipping-Antra_v1.1.5-0ea5e9?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/▶_Currently_Shipping-Antra_v1.1.6-0ea5e9?style=flat-square&labelColor=0d1117"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Go_%2B_Python_%2B_Svelte-stack-38BDF8?style=flat-square&labelColor=0d1117"/>
